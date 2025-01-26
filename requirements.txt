@@ -1,0 +1,6 @@
+# The requirements.txt file is commonly used in Python projects to specify the
+# packages and their versions required for the project to run. This file helps ensure that
+# the same versions of the packages are installed, providing consistency across different
+# environments where the project is used or deployed.
+azure-ai-textanalytics
+azure-ai-translation-text==1.0.0b1

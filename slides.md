@@ -1,0 +1,7 @@
+![img.png](/Users/llewis/Documents/AzureAIDemo/img_1.png)
+![img_3.png](img_3.png)
+![img_2.png](img_2.png)
+![img_4.png](img_4.png)
+![Azure AI - Text Analytics Demo.png](slides%2FAzure%20AI%20-%20Text%20Analytics%20Demo.png)
+![2  Azure AI - Text Analytics Demo.png](slides%2F2%20%20Azure%20AI%20-%20Text%20Analytics%20Demo.png)
+![Text Analytics Work Flow.png](slides%2FText%20Analytics%20Work%20Flow.png)
